@@ -9,4 +9,4 @@ sudo ./mtx-riot-install.sh
 After installation, you will be offered a cron configuration for daily checking and installing updates for Riot-web.
 
 The script does not configure the configuration files, you must configure them manually.
-In the future this will be finalized.
+In the future this will be finalized (https://github.com/grigruss/deb-mtx-riot-install/issues/2).
