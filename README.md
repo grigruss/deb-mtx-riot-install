@@ -1,4 +1,9 @@
 # deb-mtx-riot-install
+
+[![Build Status](https://travis-ci.org/grigruss/deb-mtx-riot-install.svg?branch=master)](https://travis-ci.org/grigruss/deb-mtx-riot-install)
+[![GitHub License](https://img.shields.io/github/license/grigruss/deb-mtx-riot-install.svg)](https://github.com/grigruss/deb-mtx-riot-install/blob/master/LICENSE.md)
+[![GitHub Release](https://img.shields.io/github/release/grigruss/deb-mtx-riot-install.svg)](https://github.com/grigruss/deb-mtx-riot-install/releases)
+
   Bash script for installing matrix-synapse and Riot-web on a Debian server 8 jessie
 
 Just download and run:
